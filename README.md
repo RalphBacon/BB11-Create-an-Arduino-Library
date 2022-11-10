@@ -9,7 +9,9 @@ We use libraries all the time - even the Arduino framework is a library!
 
 Writing a library is straightforward if you follow the simple pattern that I demo here. I show you a Real World library that controls a bit of hardware that I had on my workbench - but you can write one for ANY piece of hardware.  
 
-We'll even talk about elephants (the one in the room) and why we should not be fearful about simple things like 'objects' - watch the video and judge for yourself. 😉  
+We'll even talk about elephants (the one in the room) and why we should not be fearful about simple things like 'objects' - watch the video and judge for yourself. 😉
+<br>
+<br>
 Yes, a library can take the complexity of coding away from your sketch so that it (and future ones) "just work" by calling a library.  
 
 ► More information (including all links, sketches & PDFs in my GitHub):
