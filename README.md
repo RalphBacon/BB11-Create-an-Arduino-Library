@@ -14,6 +14,10 @@ We'll even talk about elephants (the one in the room) and why we should not be f
 <br>
 Yes, a library can take the complexity of coding away from your sketch so that it (and future ones) "just work" by calling a library.  
 
+► The two-digit, common anode, 74HC595-driven display I used in the video (widely available):  
+![HC595 2 digit display (Custom)](https://user-images.githubusercontent.com/20911308/201101304-96c03006-559c-4cdc-a30f-5a194c1e0b7d.png)  
+https://s.click.aliexpress.com/e/_DmJsQ0B  
+
 ► More information (including all links, sketches & PDFs in my GitHub):
 Sketches and the library from the demo are all right here in the GitHub  
 
